@@ -1,0 +1,2 @@
+first run perceptron which initializes and saves random seed s. then run mira and opa. 
+also import datasets accordingly.
